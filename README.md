@@ -33,4 +33,4 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BarrigueteHector&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Streak stats" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BarrigueheteHector)](https://git.io/streak-stats)

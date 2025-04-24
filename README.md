@@ -24,12 +24,12 @@
 ## Statistical Data :
 <p>
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=BarrigueteHector&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=BarrigueteHector&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&theme=react"
     alt="readme stats 1" 
     bg_color=#808080/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BarrigueteHector&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="readme stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BarrigueteHector&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&theme=react"
+    alt="readme stats 2" />
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats-nu.vercel.app?user=BarrigueteHector&theme=react)](https://git.io/streak-stats)

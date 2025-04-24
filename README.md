@@ -22,15 +22,14 @@
   </a>
 
 ## Statistical Data :
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+<p>
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=BarrigueteHector&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="readme stats 1" 
-    bg_color=#808080/></p>
-<br>
+    bg_color=#808080/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BarrigueteHector&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="readme stats" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BarrigueteHector&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="readme stats" />
+</p>
 
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BarrigueheteHector)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BarrigueteHector&theme=dark)](https://git.io/streak-stats)

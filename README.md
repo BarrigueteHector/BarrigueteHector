@@ -32,4 +32,4 @@
     alt="readme stats" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BarrigueteHector&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-nu.vercel.app?user=BarrigueteHector&theme=react)](https://git.io/streak-stats)

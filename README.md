@@ -18,7 +18,7 @@
 
 ## Languages and Tools:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,java,c,cpp,html,css,react,javascript,azure,github,mongodb,npm,postman,figma,stackoverflow,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,python,java,c,cpp,cs,html,css,react,javascript,azure,github,mongodb,npm,postman,figma,stackoverflow,vite,vscode" />
   </a>
 
 ## Statistical Data :

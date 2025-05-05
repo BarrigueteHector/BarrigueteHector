@@ -4,8 +4,7 @@
 - :pushpin: Mexico City, Mexico
 - :mortar_board: UNAM - Computer engineer - Software engineer
 - :computer: Web developer jr.
-- :rocket: Learning about entrepreneurship
-- :bulb: Currently working on personal projects (Part.e :arrows_counterclockwise:)
+- :rocket: Entrepreneurship
 - :books: Passionate about continuous learning and staying up-to-date with tech trends
 - :handshake: Open to collaborating on web development and entrepreneurship projects
 - :hearts: Kanye West, Dua Lipa and NFL :football: are the reasons to live.

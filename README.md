@@ -21,8 +21,8 @@
 
 ## Statistical Data :
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BarrigueteHector&show_icons=true&theme=react)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BarrigueteHector&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarrigueteHector&hide_progress=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarrigueteHector&hide_progress=true&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats-seven-teal.vercel.app?user=BarrigueteHector&theme=blueberry-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-seven-teal.vercel.app?user=BarrigueteHector&theme=dark)](https://git.io/streak-stats)

@@ -13,11 +13,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barriguetehector@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BarrigueteHector)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hector-barriguete/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Hector_Dev_21)
 
 ## Languages and Tools:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,java,c,cpp,cs,html,css,react,javascript,azure,github,mongodb,npm,postman,figma,stackoverflow,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,python,java,c,cpp,html,css,react,javascript,azure,github,mongodb,npm,postman,figma,stackoverflow,vite,vscode,mysql" />
   </a>
 
 ## Statistical Data :
